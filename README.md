@@ -49,4 +49,4 @@ The system then outputs a **Truthfulness Prediction** and a probability chART.
 
    . Launch the App
 2. Run streamlit interface
-   ```streamlit run app.py
+   ```streamlit run app.py ```
