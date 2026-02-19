@@ -1,4 +1,4 @@
-# Fake News Detector 🕵️‍♂️
+# Multi-Class Political Statement Classification (LIAR Dataset) 🕵️‍♂️
 
 A comprehensive machine learning system designed to classify the truthfulness of public statements by combining NLP techniques with speaker metadata.
 
