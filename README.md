@@ -46,3 +46,7 @@ The system then outputs a **Truthfulness Prediction** and a probability chART.
 1. Clone the repository:
    ```bash
    git clone [https://github.com/v4ni0/liar-plus-fake-news-detector.git](https://github.com/v4ni0/liar-plus-fake-news-detector.git)
+
+   . Launch the App
+2. Run streamlit interface
+   ```streamlit run app.py
