@@ -1,6 +1,6 @@
 # Multi-Class Political Statement Classification (LIAR Dataset) 🕵️‍♂️
 
-A comprehensive machine learning system designed to classify the truthfulness of public statements by combining NLP techniques with speaker metadata.
+A machine learning system designed to classify the truthfulness of public statements by combining NLP techniques with speaker metadata.
 
 ## 📖 Overview
 Developed as part of a Computer Science curriculum, this project aims to combat global misinformation by looking beyond just text. The system analyzes not only the **statement** itself but also the **contextual metadata** (speaker history, party affiliation, and job title) to provide a more accurate truthfulness score.
@@ -16,14 +16,14 @@ Statements are classified into 6 labels of truthfulnesS:
 * 🔥 **Pants on Fire**
 
 ## 🛠️ Features & Engineering
-To improve accuracy, this project implements advanced **Feature Engineering**:
+To improve accuracy, this project implements **Feature Engineering**:
 * **Truth Index:** A calculated reliability coefficient based on the speaker's historical record.
 * **Lexical Diversity:** Measuring the richness of the vocabulary used in statements.
 * **POS Tagging:** Counting nouns and adjectives to detect subjective or emotional styles.
 * **NLP Pipeline:** Implements Stemming, Lemmatization, Stopword removal, and Count Vectorization.
 
 ## 🧠 Model Performance
-[cite_start]Several models were tested to find the most effective classifier[cite: 189]:
+Several models were tested to find the most effective classifier:
 
 | Model | Accuracy / F1 Score |
 | :--- | :--- |
